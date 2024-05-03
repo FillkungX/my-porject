@@ -1,0 +1,52 @@
+body{
+    background-color: #040508;
+}
+
+.logo{
+    width: 66px;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+nav{
+    display: flex;
+    justify-content: center;
+}
+.nav-bar{
+    display: flex;
+    width: 78%;
+    height: 9vh;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 80px;
+    padding-right: 20px;
+}
+.nav-bar{
+    background-color: #fef08a36;
+    border-radius: 9999px;
+    color: aliceblue;
+    font-family: "line_seed_sans_th";
+    font-size: 20px;
+}
+.profile{
+    padding-left: 8px;
+    padding-right: 35px;
+    height: 75%;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    border-radius: 9999px;
+    background-color: #fef08a77;
+    font-size: 16px;
+}
+.acc_pic{
+    align-items: center;
+    height: 33.55px;
+
+}
+ul{
+    list-style: none;
+}
+.dropdown img{
+    width: 10px;
+}
